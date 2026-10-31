@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Team-Calendar-Event-Planning/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Team-Calendar-Event-Planning?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Team-Calendar-Event-Planning/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Team-Calendar-Event-Planning?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Team-Calendar-Event-Planning/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Team-Calendar-Event-Planning?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -62,9 +62,9 @@ The sector exhibits **moderate-to-high concentration at the baseline infrastruct
 
 ### ⚡ Top Open-Source Repositories (Ranked by Stars)
 
-*All repositories are sorted descending by community popularity and GitHub star count.*
+*All repositories are sorted descending by community popularity and GitHub Stars_Count.*
 
-| 📦 Repository | ⭐ Stars | ⚖️ License | 🛠️ Tech Stack | 📌 Primary Focus |
+| 📦 Repository | ⭐ GitHub_Stars | ⚖️ License | 🛠️ Tech Stack | 📌 Primary Focus |
 | :--- | :--- | :--- | :--- | :--- |
 | **[calcom/cal.com](https://github.com/calcom/cal.com)** | [![Stars](https://img.shields.io/github/stars/calcom/cal.com?style=social&color=white)](https://github.com/calcom/cal.com/stargazers) | AGPL-3.0 / Commercial | Next.js, TypeScript, PostgreSQL, Prisma | Enterprise & community scheduling platform with round-robin, integrations & workflows |
 | **[fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar)** | [![Stars](https://img.shields.io/github/stars/fullcalendar/fullcalendar?style=social&color=white)](https://github.com/fullcalendar/fullcalendar/stargazers) | MIT | TypeScript, JavaScript | Flexible full-sized calendar UI component for React, Vue, Angular, and vanilla web apps |
